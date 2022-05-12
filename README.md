@@ -6,7 +6,7 @@ Group of answer choices
 
 - [ ] git pull main foo
 
-- [ ] git checkout -b foo
+- [x] git checkout -b foo
 
 - [ ] cp main foo
 
